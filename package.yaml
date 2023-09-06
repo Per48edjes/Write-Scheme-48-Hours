@@ -46,6 +46,7 @@ executables:
       - -with-rtsopts=-N
     dependencies:
       - Write-Scheme-48h
+      - parsec
 
 tests:
   Write-Scheme-48h-test:
